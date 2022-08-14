@@ -1,0 +1,14 @@
+{
+    "english":{
+        "Title":"Translate english to Tamil",
+        "Description":"Translate web content into multiple language"
+    },
+    "tamil":{
+        "Title":"ஆங்கிலத்தை தமிழுக்கு மொழிபெயர்க்கவும்",
+        "Description":"இணைய உள்ளடக்கத்தை பல மொழிகளில் மொழிபெயர்க்கவும்"
+    },
+    "hindi":{
+        "Title":"टैंचलेड अंग्रेजी से तमिल",
+        "Description":"टैंचलेड वेब सामग्री कई भाषाओं में है"
+    }
+}
