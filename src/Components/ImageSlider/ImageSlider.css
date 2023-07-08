@@ -14,3 +14,9 @@
 .clicked{
   border: 5px solid black;
 }
+.btns{
+  height: 40px;
+  width: 40px;
+  border-radius: 5px;
+  background: grey;
+}
